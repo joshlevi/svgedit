@@ -1,8 +1,1 @@
-<?xml version="1.0"?>
-<svg width="24" height="24" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
- <!-- Created with SVG-edit - https://github.com/SVG-Edit/svgedit-->
- <g class="layer">
-  <title>Layer 1</title>
-  <text fill="#000000" font-family="Times" font-size="18" font-style="italic" font-weight="bold" id="svg_1" stroke="#000000" stroke-width="0" style="cursor: move;" text-anchor="middle" x="11.511492" xml:space="preserve" y="18.011461">i</text>
- </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" width="24" height="24"><g class="layer"><title>Layer 1</title><text id="svg_1" x="11.511" y="18.011" fill="#000" stroke="#000" stroke-width="0" font-family="Times" font-size="18" font-style="italic" font-weight="bold" text-anchor="middle" xml:space="preserve" style="cursor:move">i</text></g></svg>
