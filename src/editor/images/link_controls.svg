@@ -1,7 +1,1 @@
-<svg viewBox="0 0 24 24" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
-  <path stroke-width="2" id="svg_102" d="m9.875,23c-2,-4.25 -1.6875,-7.375 1.6875,-10.5c3.375,-3.125 7.5625,-2.75 11.0625,2" stroke="#8dd35f" fill="none"/>
-  <line fill="none" stroke="#606060" id="svg_109" y2="4" x2="19" y1="19" x1="4"/>
-  <circle stroke="#0000ff" fill="#fddb8c" id="svg_111" r="2.17578" cy="11.5" cx="11.5"/>
-  <circle stroke-width="0.5" id="svg_121" stroke="#0000ff" fill="#fddb8c" r="2.26172" cy="4" cx="19"/>
-  <circle id="svg_123" stroke-width="0.5" stroke="#0000ff" fill="#fddb8c" r="2.26172" cy="19" cx="4"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 24 24"><path id="svg_102" fill="none" stroke="#8dd35f" stroke-width="2" d="m9.875,23c-2,-4.25 -1.6875,-7.375 1.6875,-10.5c3.375,-3.125 7.5625,-2.75 11.0625,2"/><line id="svg_109" x1="4" x2="19" y1="19" y2="4" fill="none" stroke="#606060"/><circle id="svg_111" cx="11.5" cy="11.5" r="2.176" fill="#fddb8c" stroke="#00f"/><circle id="svg_121" cx="19" cy="4" r="2.262" fill="#fddb8c" stroke="#00f" stroke-width=".5"/><circle id="svg_123" cx="4" cy="19" r="2.262" fill="#fddb8c" stroke="#00f" stroke-width=".5"/></svg>
